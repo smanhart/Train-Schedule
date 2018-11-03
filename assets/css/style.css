@@ -8,5 +8,22 @@
 }
 
 body{
-    background-image: url("../images/pexels-photo.jpg");
+    background: #6b555f;
 }
+
+.btn {
+    background: #200e26;
+}
+
+.btn:hover {
+    background: lightslategray;
+}
+
+.card .card-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+
+

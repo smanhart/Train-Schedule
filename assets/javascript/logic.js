@@ -1,3 +1,12 @@
+$(document).ready(function(){
+    $('.parallax').parallax();
+  });
+
+$(document).ready(function() {
+    M.updateTextFields();
+});
+
+
 //add firebase
 var config = {
     apiKey: "AIzaSyCWSJPQJod1w_HyMuQuNvMVbb_-WHptlmI",
